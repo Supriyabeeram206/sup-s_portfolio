@@ -5,4 +5,10 @@
  * Data was taken from Github.
  * Dax formulas Used: Year-to-Date (YTD), Month-to-Date (MTD), Year-over-Year (YOY), 
  and Previous Year-to-Date (PTYD)
-![alt text]![CarSales](https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/5209503c-3b28-41ac-8fca-2a60640db0c1)
+* ![CarSales](https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/5209503c-3b28-41ac-8fca-2a60640db0c1)
+# Project 2: CERTIFICATE VALIDATION USING BLOCKCHAIN
+* The project is created to secure academic certificate for accurate management and to avoid forge certificate.
+* Blockchain acts as the infrastructure of trust and a distributed database for saving the authentication data.
+* the authentication data consist of the Merkle root generated using hashed data from thousands of certificates.
+* JSON-based certificates and provides high availability and scalability.
+* Libraries: Python(tkinter ,hashlib, Blockchain)Model: SDLC, Web frameworks: Django. 
