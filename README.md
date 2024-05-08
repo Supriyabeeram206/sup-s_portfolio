@@ -14,3 +14,11 @@
 * Libraries: Python(tkinter ,hashlib, Blockchain)Model: SDLC, Web frameworks: Django. 
 ![alt text]<img width="747" alt="Begin" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/d6b1ae6e-2859-411d-9c06-bdbf26d28982">
 <img width="864" alt="end" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/8a40e778-fe07-4bf2-938e-2f65d784343c">
+
+# Project 3: Recommendation system for tourists
+* Recommended system plays vital role for recommending a decision for their holiday tour.
+* By considering two factors such as point of interest and ratings, based upon each attribute values the system prefers the best location.
+* Algorithms: Classification and Regression Tree algorithm, C 4.5 Decision Tree algorithm, MRMR Algorithm .
+* Libraries: tkinter, matplotlib,  numpy,  pandas, and sklearn
+  ![alt text]<img width="592" alt="Screenshot 2024-05-08 at 4 20 43 PM" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/32e25e01-2982-40fb-a314-c387cb796b42"> <img width="569" alt="Screenshot 2024-05-08 at 4 21 22 PM" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/2e3350f4-51b3-428a-ab68-87cfac02fa1c">
+
