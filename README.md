@@ -22,3 +22,9 @@
 * Libraries: tkinter, matplotlib,  numpy,  pandas, and sklearn
   ![alt text]<img width="592" alt="Screenshot 2024-05-08 at 4 20 43 PM" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/32e25e01-2982-40fb-a314-c387cb796b42"> <img width="569" alt="Screenshot 2024-05-08 at 4 21 22 PM" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/2e3350f4-51b3-428a-ab68-87cfac02fa1c">
 
+# Project 4: British Airways Review Dashboard using Tableau (https://github.com/Supriyabeeram206/pro3/blob/main/README.md)
+* The dashboard is interactive so that users can filter the data by selecting different options from the dropdown menus.
+* This allows users to see the rating for the specific criteria they are interested in.
+* The bar graph and line chart shows Average rating based on metric user choose by aircraft and by month.
+* The map represents the average metric by country with number of reviews.
+ ![alt text] <img width="1198" alt="Screenshot 2024-05-11 at 2 33 52 PM" src="https://github.com/Supriyabeeram206/sup-s_portfolio/assets/165930778/0520df87-9e9b-49ef-a72b-ac00725e5a74">
