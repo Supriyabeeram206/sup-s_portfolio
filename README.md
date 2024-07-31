@@ -1,4 +1,4 @@
-# Supriya's Data Analytics portfolio
+# Supriya's projects portfolio
 # Project 1: A Car Sales Dashboard using Advanced Power BI (https://github.com/Supriyabeeram206/Power_BI_Project)
  * The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI
  * The dashboard will visulaize sales performance over time and critical KPI's to understand sales performance over time.
